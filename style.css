@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(91, 91, 91);
+}
+nav{
+    background-color: brown;
+}
+a:hover{
+    background-color: azure;
+}
+ul{
+    display: flex;
+    justify-content: flex-start;
+}
+
+video{
+    width: 500px;
+}
